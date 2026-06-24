@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Chen Niao — Poet, Essayist & Writer</title>
+
+<style>
+body {
+margin: 0;
+font-family: Georgia, "Times New Roman", serif;
+background: #fafafa;
+color: #222;
+line-height: 1.7;
+}
+
+.container {
+max-width: 900px;
+margin: 0 auto;
+padding: 60px 20px;
+}
+
+h1 {
+font-size: 42px;
+text-align: center;
+margin-bottom: 10px;
+}
+
+.subtitle {
+text-align: center;
+font-size: 18px;
+color: #666;
+margin-bottom: 40px;
+}
+
+.section {
+margin-top: 50px;
+}
+
+h2 {
+border-bottom: 1px solid #ddd;
+padding-bottom: 10px;
+margin-bottom: 20px;
+}
+
+.book {
+margin-bottom: 30px;
+padding: 20px;
+background: #fff;
+border: 1px solid #eee;
+border-radius: 8px;
+}
+
+.book-title {
+font-size: 20px;
+font-weight: bold;
+}
+
+a {
+color: #1a0dab;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+.footer {
+text-align: center;
+margin-top: 80px;
+font-size: 12px;
+color: #888;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Chen Niao</h1>
+<div class="subtitle">
+Poet · Essayist · Writer<br/>
+Writing poetry and essays on memory, silence, and human emotion.
+</div>
+
+<p style="text-align:center;">
+Through language, she explores the quiet landscapes of everyday life—where memory lingers, and emotions remain unspoken.
+</p>
+
+<div class="section">
+<h2>📖 Published Works</h2>
+
+<div class="book">
+<div class="book-title">That Day, That Person, That Gaze</div>
+Essay Collection<br/>
+A collection of personal essays reflecting on memory, human connection, everyday encounters, and the emotions that shape our lives.<br/>
+Each piece is a journey through moments that linger long after they have passed.<br/>
+<a href="https://www.amazon.com/dp/B0GNNZWPH9" target="_blank">👉 Buy on Amazon</a>
+</div>
+
+<div class="book">
+<div class="book-title">Heart Rain Hidden Poems</div>
+Poetry Collection<br/>
+A collection of poems exploring emotion, memory, longing, silence, and the quiet landscapes of the human heart.<br/>
+Through simple yet reflective language, these poems capture moments that often remain unspoken.<br/>
+<a href="https://www.amazon.com/dp/B0GNPY6DZT" target="_blank">👉 Buy on Amazon</a>
+</div>
+
+<div class="book">
+<div class="book-title">那天，那人，那眼神</div>
+散文集<br/>
+有些记忆会消退，而有些记忆则会静静留在心中。<br/>
+这本散文集记录曾经遇见的人、分享过的瞬间，以及那些无法忘记的目光。<br/>
+在时间的流动中，它试图捕捉人心留下的痕迹。<br/>
+<a href="https://www.amazon.com/dp/B0GNLT8VXL" target="_blank">👉 Buy on Amazon</a>
+</div>
+
+<div class="book">
+<div class="book-title">心雨藏诗</div>
+诗集<br/>
+诗人以细腻笔触记录生命中的相遇与离别、欢喜与忧伤。<br/>
+将无法言说的情感化为诗句，让记忆如心雨般落入字里行间。<br/>
+<a href="https://www.amazon.com/dp/B0GNL75SN4" target="_blank">👉 Buy on Amazon</a>
+</div>
+
+</div>
+
+<div class="section">
+<h2>🎧 Music & Poetry Videos</h2>
+<p>
+<a href="https://youtu.be/cPLWtpeAwT0?si=6D_g_vqlBs4tXl-U" target="_blank">飞翔的想念</a><br/>
+<a href="https://youtu.be/0m28x5Yn5kY?si=e9UU3THVriGJCqcJ" target="_blank">醉千杯</a><br/>
+<a href="https://youtu.be/GN_9m0Mm_cc?si=VgpWaPv5m_hWOX0x">孤单的外衣</a><br/>
+<a href="https://www.youtube.com/@%E6%99%A8%E9%B8%9F" target="_blank">Full YouTube Channel</a>
+</p>
+</div>
+
+<div class="section">
+<h2>✨ About the Author</h2>
+<p>
+Chen Niao is a Chinese poet and essayist whose work focuses on memory, silence, and emotional perception.<br/>
+Her writing moves between poetry and prose, capturing the subtle emotions hidden within everyday life.<br/>
+She believes writing is not only expression—but also a way of remembering what time tries to erase.
+</p>
+</div>
+
+<div class="section">
+<h2>🌿 Short Bio</h2>
+<p>
+Chen Niao is a poet and essayist writing about memory, silence, and human emotion through poetry and prose.
+</p>
+</div>
+
+<div class="footer">
+© 2026 Chen Niao. All Rights Reserved.
+</div>
+
+</div>
+
+</body>
+</html>
